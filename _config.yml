@@ -2,7 +2,7 @@
 title: Blog
 header-img: img/home-bg.jpg
 email: sriramsh@buffalo.edu
-description: "fastboot flashall -w"
+description: "fastboot flashall"
 baseurl: ""
 url: "http://yourdomain.com"
 twitter_username: 
