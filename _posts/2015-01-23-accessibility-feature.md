@@ -2,7 +2,7 @@
 layout:     post
 title:      "Accessibility Feature For The Color Blind"
 subtitle:   ""
-date:       2014-12-23 16:00:00
+date:       2015-01-23 16:00:00
 author:     "Sriram"
 header-img: "img/post-bg-01.jpg"
 ---
