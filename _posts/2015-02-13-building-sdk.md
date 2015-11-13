@@ -8,7 +8,9 @@ header-img: "img/post-bg-01.jpg"
 ---
 
 
-Building the SDK. In the source folder,
+Building the SDK. 
+
+In the root folder,
 
 
 `. build/envsetup.sh`<br>
