@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Share you wifi passwords easily with MyFi"
-subtitle:   "...because it's store in plaintext on your phone"
+subtitle:   "...because it's stored in plaintext on your phone"
 date:       2015-11-16 17:08:00
 author:     "Sriram"
 header-img: "img/post-bg-01.jpg"
